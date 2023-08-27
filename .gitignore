@@ -1,0 +1,9 @@
+.idea
+package-lock.json
+node_modules
+videos
+yarn.lock
+cypress/screenshots
+*.env.json
+.DS_Store
+reports
